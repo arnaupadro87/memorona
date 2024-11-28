@@ -1,6 +1,5 @@
-- Change project name to memorona
+- Improve project structure adding folders for code, i18n, etc.
 - Modify High Level to fit in a FHD monitor
 - Add support to load images from a folder
-- Translate to Catalan
 - Add sounds
 - Local multiplayer mode
