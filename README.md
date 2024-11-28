@@ -6,6 +6,8 @@ Tested in a Ubuntu 24.04. Should work in any environment with CMake and Qt insta
 
 The project does not include images that will be used for the game. You can add them at `images/Cards` folder and then add each of the files in the `images.qrc` file to be included in the compilation of the project.
 
+Images **MUST** be square.
+
 # Build instructions
 
 From inside the project folder execute the following commands:
